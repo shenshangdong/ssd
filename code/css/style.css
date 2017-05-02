@@ -1,0 +1,28 @@
+body
+{
+	font:12px,'Arial';
+	line-height:2em;
+	color:#999999;
+}
+a{
+	text-decoration: none;
+	color:#727272;
+}
+a:hover{
+	text-decoration: underline;
+}
+
+.b{
+	font:bold,14px;
+	color:#b9f605;
+}
+.menu{
+	color:#ffffff;
+}
+.menu:hover{
+	text-decoration:none;
+	color:#b9f605;
+}
+.special{
+	color:#fdb306;
+}
