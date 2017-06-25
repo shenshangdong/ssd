@@ -1,0 +1,183 @@
+body{background:url(../images/body.jpg);}
+.shang{
+	width:100%;height:auto;
+	text-align: center;
+	margin:0px auto;
+}
+img{border:0px;}
+a{
+	text-decoration:none;
+	font-size:12px;
+}
+.dh{
+	background:url(../images/dht.jpg);
+	width:100%;
+	height:35px;
+	overflow:hidden;
+}
+.logo img{
+	width:35px;
+	height:auto;
+	margin-right:30px;
+}
+.dh li{
+	list-style-type:none;
+	float:left;
+	position:relative;
+	bottom:14px;
+}
+.dh a{
+	color:#ee0;
+	font-size:16px;
+}
+.dh a:hover{
+	color:#eee;
+	background-color:#500;
+}
+.dh_one{
+	margin-left:190px;
+	margin-top:5px;
+	float:left;
+}
+.dh_two{
+	float:right;
+	margin-right:80px;
+	margin-top:5px;
+}
+.bai{
+	width:140px;
+	height:19px;
+	background-color:#f8f5ee;
+}
+.hei{
+	width:44px;
+	height:21px;
+	background-color:#000;
+	color:#fff;
+	border:1px solid #f8f5ee;
+}
+.zhong{
+	width:900px;
+	height:auto;
+	margin:0px auto;
+	font-size:12px;
+}
+.left{
+	width:200px;
+	height:950px;
+	border-right:1px solid #f00;
+	float:left;
+}
+.lj a:hover{
+	color:#f00;
+	text-decoration:underline;
+}
+.left_top{
+	width:190px;
+	height:250px;
+	margin-bottom:30px;
+	margin-top:70px;
+	margin-left:5px;
+	background:rgba(240,150,50,0.6);
+}
+.news a{
+	font-size:16px;
+	color:#253;
+}
+.news a:hover{
+	color:#e11;
+}
+.left_center{
+	width:190px;
+	height:250px;
+	margin-bottom:30px;
+	margin-left:5px;
+	background:rgba(100,200,50,0.6);
+}
+.left_center img{
+	position:relative;
+	left:35px;
+}
+.board a{
+	font-size:14px;
+	color:#931;
+}
+.board a:hover{
+	color:#e00;
+}
+.board li{
+	height:30px;
+}
+.left_bottom{
+	width:170px;
+	height:250px;
+	margin-bottom:30px;
+	margin-left:5px;
+	padding:10px;
+	background:rgba(11,11,30,0.6);
+}
+.left_bottom img{
+	width:100px;
+	height:auto;
+}
+.left_bottom p{
+	color:#ccc;
+}
+.right{
+	width:690px;
+	height:950px;
+	float:left;
+}
+.biaoti{
+	font:bold 30px '华文新魏';
+	color:#153;
+	width:auto;
+	height:50px;
+	margin-left:50px;
+	margin-top:30px;
+}
+.fenzu{
+	width:140px;
+	height:250px;
+	margin:10px;
+	padding:5px;
+	border:1px solid #555;
+	float:left;
+}
+.fenzu a{
+	font-size:20px;
+	font-family:"华文新魏";
+	color:#131;
+}
+.fenzu a:hover{
+	color:#e11;
+}
+.fenzu img{
+	width:135px;
+	height:auto;
+}
+.fenzu p{
+	position:relative;
+	bottom:15px;
+}
+.footer{
+	height: 90px;
+	clear: both;
+	width:100%;
+	text-align:center;
+	position:relative;
+	top:35px;
+}
+.footer li{
+	float:left;
+	list-style-type:none;
+	position:relative;
+	left:440px;top:10px;
+}
+.footer li a:hover{
+	color:#f23;
+	text-decoration:underline;
+}
+.footer p{
+	font-size:12px;
+}
